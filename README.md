@@ -1,2 +1,3 @@
 # 005-Circular-Progress-Loader-Animation
-A simple loader view 
+
+![Snapshot 1](https://github.com/vidaaudrey/003-Dribble-Client/blob/master/_Snapshot/snapshot1.png)
