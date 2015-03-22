@@ -12,6 +12,9 @@
 **How to Use**: Use below code to programmatically create and customize the view, all parameters except the first "frame" can be nil.
 
 progressView = ProgressView(frame: rect, labelTextColor: UIColor.whiteColor(), labelFontSize: 30, labelFontName: nil, circleStrokeColors: colors, circleFillColor: nil, circleLineWidth: 15, strokeStartValue: nil, strokeEndValue:nil, loadText: "Load View", loadingText: "Loading", endLoadingText: "Done")
+
 view.addSubview(progressView)
+
 progressView.animateProgressView()
+
 [Ref](http://zappdesigntemplates.com/cashapelayer-to-create-a-custom-progressbar/)
