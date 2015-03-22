@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>53BAB1CE-F841-45B5-8151-DB2510094835</string>
+	<key>IDESourceControlProjectName</key>
+	<string>005-Circular-Progress-Loader-Animation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>17599F45B633AA4E2D5B05151DEE9654B0CB9F1B</key>
+		<string>https://github.com/vidaaudrey/005-Circular-Progress-Loader-Animation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>005-Circular-Progress-Loader-Animation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>17599F45B633AA4E2D5B05151DEE9654B0CB9F1B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vidaaudrey/005-Circular-Progress-Loader-Animation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>17599F45B633AA4E2D5B05151DEE9654B0CB9F1B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>17599F45B633AA4E2D5B05151DEE9654B0CB9F1B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>005-Circular-Progress-Loader-Animation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
